@@ -20,6 +20,7 @@ namespace WebApplication3.Controllers
 
         public IActionResult Index()
         {
+            //burası anasayfadır.
             return View();
         }
 
